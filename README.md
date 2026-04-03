@@ -1,16 +1,23 @@
-# khudaba
+# SQLite Project with Flutter 
+🚀 A practical **Flutter** application for building a full **Khudaba-SQLite** project.  
 
-A new Flutter project.
 
-## Getting Started
+## 📌 Description  
+This project is a hands-on **Flutter** implementation of an CMS store, covering key concepts such as:  
 
-This project is a starting point for a Flutter application.
+- Building the **UI** entirely using **Flutter**.  
+- **Integration** with **SQLite** to understand **Layouts**.  
+- **Integration** with an SQLite to display various data, including:  
+  - **Posts**  
+  - **Post Details**  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚙️ Installation & Contribution  
+This section provides steps on how to set up the project locally and contribute to its development.  
+Whether you're running the project for personal use or contributing to its improvement, follow the steps below.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🔧 Technologies Used  
+- **Flutter**  
+- **Dart**  
+- **REST API Integration**  
+
